@@ -14,7 +14,7 @@ import img2 from './img2.jpg'
 import img3 from './img3.jpg'
 import img4 from './img4.jpg'
 import original from './original.png'
-import tandoori from './taindoori.png'
+import tandoori from './tandoori.png'
 import bbq from './bbq.png'
 
 
